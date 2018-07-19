@@ -90,9 +90,10 @@ void wordTrie::add(string path)
 						}
 
 					}
-					count++;
+					
 				}
 			}
+			count++;
 		}
 	}
 	fin.close();
